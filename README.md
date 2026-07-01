@@ -1,5 +1,9 @@
 # RXSSU_STK
 RXSSU管理器的SIM卡工具包版
+# 图片展示
+<p align="center">
+  <img src="666.png" width="260" alt="预览"/>
+</p>
 # 实现方式
 简单地描述一下，就是设备的root权限通过一个端口映射到STK菜单里，然后在SIM卡工具包中就可以管理root权限了，这个是可以在RXSSU管理器APP中自由开启和关闭的。
 # 如何使用？
